@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**muhammadabbamuhd8/muhammadabbamuhd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhamma/muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
